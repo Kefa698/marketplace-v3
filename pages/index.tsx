@@ -25,20 +25,20 @@ const Home: NextPage = () => {
             </div> */}
           </div>
           <div className={styles.heroAssetFrame}>
-            {/* <Image
-              src="/nfty.png"
+            <Image
+              src="/cover+social.png"
               width={860}
               height={540}
               alt="Hero asset, NFT marketplace"
               quality={100}
               className={styles.heroAsset}
-            /> */}
+            />
           </div>
           <div className={styles.heroBodyContainer}>
             <div className={styles.heroBody}>
               <h1 className={styles.heroTitle}>
                 <span className={styles.heroTitleGradient}>
-                  NFT Marketplaces
+                  BUY OUR CANCER NFT COLLECTION TO HELP US IN OUR FIGHT AGAINST CANCER
                 </span>
                
               </h1>
