@@ -13,7 +13,7 @@ const Home: NextPage = () => {
       <div className={styles.content}>
         <div className={styles.hero}>
           <div className={styles.heroBackground}>
-            <div className={styles.heroBackgroundInner}>
+            {/* <div className={styles.heroBackgroundInner}>
               <Image
                 src="/hero-gradient.png"
                 width={1390}
@@ -22,11 +22,11 @@ const Home: NextPage = () => {
                 quality={100}
                 className={styles.gradient}
               />
-            </div>
+            </div> */}
           </div>
           <div className={styles.heroAssetFrame}>
             <Image
-              src="/hero-asset.png"
+              src="/nfty.png"
               width={860}
               height={540}
               alt="Hero asset, NFT marketplace"
@@ -38,12 +38,11 @@ const Home: NextPage = () => {
             <div className={styles.heroBody}>
               <h1 className={styles.heroTitle}>
                 <span className={styles.heroTitleGradient}>
-                  Build NFT Marketplaces
+                  NFT Marketplaces
                 </span>
-                <br />
-                faster than ever.
+               
               </h1>
-              <p className={styles.heroSubtitle}>
+              {/* <p className={styles.heroSubtitle}>
                 <Link
                   className={styles.link}
                   href="https://thirdweb.com"
@@ -53,9 +52,9 @@ const Home: NextPage = () => {
                 </Link>{" "}
                 gives you the tools you need to create audited, performant, and
                 flexible NFT marketplaces in <b>hours</b>, <i>not months</i>.
-              </p>
+              </p> */}
 
-              <div className={styles.heroCtaContainer}>
+              {/* <div className={styles.heroCtaContainer}>
                 <Link className={styles.heroCta} href="/buy">
                   Get Started
                 </Link>
@@ -66,7 +65,7 @@ const Home: NextPage = () => {
                 >
                   GitHub
                 </Link>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
