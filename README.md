@@ -58,3 +58,7 @@ Contributions and [feedback](https://feedback.thirdweb.com) are always welcome! 
 ## Need help?
 
 For help, join the [discord](https://discord.gg/thirdweb) or visit our [support page](https://support.thirdweb.com).
+
+
+Files stored at the following IPFS URI: ipfs://QmPjnhUPEAy4y84SQM9TPuxVSP9LcdCCGgs1HCweApSBCm
+Open this link to view your upload: https://bafybeiauzekczzfrp2opoabvvdnjmhxyscch6pz6s6eqykykm25e264fzi.ipfs.cf-ipfs.com/
